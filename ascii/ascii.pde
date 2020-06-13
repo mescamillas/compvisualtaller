@@ -18,7 +18,7 @@ String letters = "MN@#$o;:,.";
  
 // sampling precision: colors will be sampled every n pixels 
 // to determine which character to display
-int precision = 5;
+int precision = 10;
 
 // array to hold characters for pixel replacement
 char[] ascii;
